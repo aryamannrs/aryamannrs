@@ -46,9 +46,8 @@ Applying machine learning algorithms to analyze trends and make predictions usin
 I’m always open to collaboration, innovation, and a friendly chat!  
 
 - 🌍 **Portfolio**: [Coming Soon]  
-- 🐦 **Twitter**: [@AryamanR](#)  
-- 💼 **LinkedIn**: [LinkedIn Profile](#)  
-- 📧 **Email**: aryaman.srivastava@gmail.com  
+- 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/aryamansrii/)  
+- 📧 **Email**: aryamansrivastava@outlook.com  
 
 ---
 
